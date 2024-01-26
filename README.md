@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/hand-drawn-iranian-woman-illustration_23-2149857240.jpg?w=740&t=st=1674977338~exp=1674977938~hmac=538fb1de96b61b3d444d013935bf64f388c08417d36de1ef9afca7a29c358623" width="300"/>
+  <img src="https://hunarfoundation.org/wp-content/uploads/2023/07/Slider-Image-One-2.jpg"/>
 
 
 <div id="badges">
@@ -14,7 +14,6 @@
   </a>
  
 </div>
-<img src="https://hunarfoundation.org/wp-content/uploads/2023/07/Slider-Image-One-2.jpg" alt=""/>
                                                                                                     
  ### The Hunar Foundation 👋
   ### <h2> RAAS Institute of Emerging Technologies </h2>👩‍💻
@@ -25,11 +24,7 @@
 
    <hr>
    
-   ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Javeria-Hassan-SE&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-<hr>
 
-   ### :fire: Most Langauges Used:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Hassan-SE&hide=javascript,css,scss,html&theme=tokyonight)
 
