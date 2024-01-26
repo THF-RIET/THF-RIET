@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://hunarfoundation.org/wp-content/uploads/2023/07/Slider-Image-One-2.jpg"/>
+  <img src="https://hunarfoundation.org/wp-content/uploads/2023/08/THF-Logo.png"/>
 
 
 <div id="badges">
@@ -24,14 +24,4 @@
 
    <hr>
    
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Hassan-SE&hide=javascript,css,scss,html&theme=tokyonight)
-
-### :fire: My Contributions:
-                                                                                                                                
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javeria-Hassan-SE)](https://github.com/anuraghazra/github-readme-stats)
-   
-  
-
    
